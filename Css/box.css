@@ -1,0 +1,24 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: black;
+    color: blanchedalmond;
+}
+input{
+    width: 250px;
+    height: 35px;
+}
+.box{
+    margin: 200px 200px;
+    position: relative;
+}
+.box input[type=text]{
+    padding-right: 40px;
+}
+.box i{
+    position: absolute;
+    left: 228px;
+    top: 8px;
+}
